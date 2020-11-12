@@ -35,13 +35,7 @@ they will be able to edit the team themselves in the future.
 
     cd my-crate
     cargo owner --add github:georust:my-crate-publishers
-
-If you had previously granted another team, like all of georust/core publishing
-permissions, it should be revoked so that only the smallest group necessary has
-publishing access.
-
-    cargo owner --remove github:georust:core
-
-If your crate had additional folks publishing, be sure that they're either a
-crates.io user-owner or add them to your new georust/_my-crate_-publishing
-team.
+    
+Note that, although members of that team can now *publish* the crate, team members 
+cannot themselves edit crate owners (see https://github.com/rust-lang/crates.io/issues/2906). 
+For redundancy, consider having at least one other *user* owner for your crate.
