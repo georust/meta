@@ -19,3 +19,7 @@ guideline make sense to you, [open an
 issue](https://github.com/georust/team/issues/new) with your proposal or strike
 up a conversation in [our Discord
 server](https://discord.com/channels/598002550221963289).
+
+## Code of Conduct
+
+All contributors are expected to follow the [GeoRust Code of Conduct](https://github.com/georust/.github/blob/main/CODE_OF_CONDUCT.md)
