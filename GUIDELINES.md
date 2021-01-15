@@ -39,3 +39,7 @@ they will be able to edit the team themselves in the future.
 Note that, although members of that team can now *publish* the crate, team members 
 cannot themselves edit crate owners (see https://github.com/rust-lang/crates.io/issues/2906). 
 For redundancy, consider having at least one other *user* owner for your crate.
+
+## Code of Conduct
+
+All contributors are expected to follow the [GeoRust Code of Conduct](https://github.com/georust/.github/blob/main/CODE_OF_CONDUCT.md)
