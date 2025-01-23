@@ -43,3 +43,10 @@ For redundancy, consider having at least one other *user* owner for your crate.
 ## Code of Conduct
 
 All contributors are expected to follow the [GeoRust Code of Conduct](https://github.com/georust/.github/blob/main/CODE_OF_CONDUCT.md)
+
+## Licensing
+
+All GeoRust code contributions should be dual licensed, usable under either the [Apache License, Version 2.0](http://www.apache.org/licenses/LICENSE-2.0) 
+or the [MIT license](http://opensource.org/licenses/MIT) at the end users choice.
+
+This is the same licensing scheme the Rust project uses. You can read their rationale on [the rust mailing list archives](https://web.archive.org/web/20230415133420/https://mail.mozilla.org/pipermail/rust-dev/2012-November/002664.html).
